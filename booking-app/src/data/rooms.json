@@ -1,0 +1,77 @@
+  [
+    {
+       "id": 1,
+       "name": "Room A",
+       "bookings": []
+    },
+    {
+       "id": 2,
+       "name": "Room B",
+       "bookings": []
+    },
+    {
+       "id": 3,
+       "name": "Room C",
+       "bookings": []
+    },
+    {
+       "id": 4,
+       "name": "Room D",
+       "bookings": []
+    },
+    {
+       "id": 5,
+       "name": "Room E",
+       "bookings": []
+    },
+    {
+       "id": 6,
+       "name": "Room F",
+       "bookings": []
+    },
+    {
+       "id": 7,
+       "name": "Room G",
+       "bookings": []
+    },
+    {
+       "id": 8,
+       "name": "Room H",
+       "bookings": []
+    },
+    {
+       "id": 9,
+       "name": "Room I",
+       "bookings": []
+    },
+    {
+       "id": 10,
+       "name": "Room J",
+       "bookings": []
+    },
+    {
+       "id": 11,
+       "name": "Room K",
+       "bookings": []
+    },
+    {
+       "id": 12,
+       "name": "Room L",
+       "bookings": []
+    },
+    {
+       "id": 13,
+       "name": "Room M",
+       "bookings": []
+    },
+    {
+       "id": 14,
+       "name": "Room N",
+       "bookings": []
+    },
+    {
+       "id": 15,
+       "name": "Room O",
+       "bookings": []
+    }
+ ]
